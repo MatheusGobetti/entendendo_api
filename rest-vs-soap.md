@@ -1,5 +1,5 @@
 # REST vs SOAP
-## REST é um __modelo arquitetural__, enquanto SOAP, de fato é um __protocolo__.
+## REST é um __modelo arquitetural__, enquanto SOAP, de fato é um __protocolo__
 
 - SOAP: Simple Object Access Protocol.
     - Protocolo
@@ -12,5 +12,4 @@
     - Modelo arquitetural
     - Requisição HTTP simples
     - Suporta vários tipos de formato (XML, JSON, YAML)
-
 
